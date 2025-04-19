@@ -1,4 +1,4 @@
-# ML Tutorials | آموزش ماشین لرنینگ
+#  آموزش ماشین لرنینگ |ML Tutorials 
 
 **هدف این پروژه، آموزش مفاهیم و تکنیک‌های مختلف ماشین لرنینگ به صورت ساده و کاربردی است.**
 
@@ -15,9 +15,9 @@
 
 ---
 
-## Installation & Usage | نصب و استفاده
+##  نصب و استفاده | Installation & Usage 
 
-### Requirements | پیش‌نیازها
+###  پیش‌نیازها | Requirements 
 - Python 3.x
 - Libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, etc.
 
